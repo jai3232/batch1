@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/batch1/notebooks/mlruns/633605664632243488/1c1b8bd985594b6ba623438ec0dd6c82/artifacts
+end_time: 1723097827953
+entry_point_name: ''
+experiment_id: '633605664632243488'
+lifecycle_stage: active
+run_id: 1c1b8bd985594b6ba623438ec0dd6c82
+run_name: bustling-sheep-686
+run_uuid: 1c1b8bd985594b6ba623438ec0dd6c82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723097827555
+status: 4
+tags: []
+user_id: suhaimi

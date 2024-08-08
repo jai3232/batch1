@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/suhaimi/Desktop/batch1/mlruns/559956971508881338/5a6f106ed1d24090a10297046f4f16cc/artifacts
+end_time: 1723084146645
+entry_point_name: ''
+experiment_id: '559956971508881338'
+lifecycle_stage: active
+run_id: 5a6f106ed1d24090a10297046f4f16cc
+run_name: decision_tree_2
+run_uuid: 5a6f106ed1d24090a10297046f4f16cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723084138365
+status: 3
+tags: []
+user_id: suhaimi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/suhaimi/Desktop/batch1/mlruns/559956971508881338/3f67d91f13cf45fe9e9b045f02e7eefd/artifacts
+end_time: 1723085143503
+entry_point_name: ''
+experiment_id: '559956971508881338'
+lifecycle_stage: active
+run_id: 3f67d91f13cf45fe9e9b045f02e7eefd
+run_name: iris
+run_uuid: 3f67d91f13cf45fe9e9b045f02e7eefd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723085135855
+status: 3
+tags: []
+user_id: suhaimi

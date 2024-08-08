@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/batch1/notebooks/mlruns/633605664632243488/993bddfdebea4c848dc293e9b4d2696e/artifacts
+end_time: 1723098101414
+entry_point_name: ''
+experiment_id: '633605664632243488'
+lifecycle_stage: active
+run_id: 993bddfdebea4c848dc293e9b4d2696e
+run_name: nervous-skink-639
+run_uuid: 993bddfdebea4c848dc293e9b4d2696e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723098100267
+status: 4
+tags: []
+user_id: suhaimi

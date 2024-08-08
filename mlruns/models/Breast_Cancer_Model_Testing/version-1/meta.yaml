@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723082367429
+current_stage: None
+description: ''
+last_updated_timestamp: 1723082367429
+name: Breast_Cancer_Model_Testing
+run_id: 2ec2a6493a51430c9836a063237308cb
+run_link: ''
+source: file:///C:/Users/suhaimi/Desktop/batch1/mlruns/977516140900043420/2ec2a6493a51430c9836a063237308cb/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/suhaimi/Desktop/batch1/mlruns/977516140900043420/2ec2a6493a51430c9836a063237308cb/artifacts/model
+user_id: null
+version: 1

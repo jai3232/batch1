@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/batch1/notebooks/mlruns/633605664632243488/5a7719996fdf4762b7cf793571c476fc/artifacts
+end_time: 1723098927615
+entry_point_name: ''
+experiment_id: '633605664632243488'
+lifecycle_stage: active
+run_id: 5a7719996fdf4762b7cf793571c476fc
+run_name: sincere-finch-108
+run_uuid: 5a7719996fdf4762b7cf793571c476fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723098912961
+status: 3
+tags: []
+user_id: suhaimi

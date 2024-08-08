@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/suhaimi/Desktop/batch1/mlruns/977516140900043420/5617b8de2f37438993e75b5fa0eae5a6/artifacts
+end_time: 1723019930209
+entry_point_name: ''
+experiment_id: '977516140900043420'
+lifecycle_stage: active
+run_id: 5617b8de2f37438993e75b5fa0eae5a6
+run_name: dashing-boar-891
+run_uuid: 5617b8de2f37438993e75b5fa0eae5a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723019930085
+status: 3
+tags: []
+user_id: suhaimi

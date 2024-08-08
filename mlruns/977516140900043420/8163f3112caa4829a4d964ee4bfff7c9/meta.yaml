@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/suhaimi/Desktop/batch1/mlruns/977516140900043420/8163f3112caa4829a4d964ee4bfff7c9/artifacts
+end_time: 1723020187620
+entry_point_name: ''
+experiment_id: '977516140900043420'
+lifecycle_stage: active
+run_id: 8163f3112caa4829a4d964ee4bfff7c9
+run_name: auspicious-horse-554
+run_uuid: 8163f3112caa4829a4d964ee4bfff7c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723020187496
+status: 3
+tags: []
+user_id: suhaimi

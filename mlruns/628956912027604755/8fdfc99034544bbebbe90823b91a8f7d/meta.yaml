@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/batch1/mlruns/628956912027604755/8fdfc99034544bbebbe90823b91a8f7d/artifacts
+end_time: 1723097588991
+entry_point_name: ''
+experiment_id: '628956912027604755'
+lifecycle_stage: active
+run_id: 8fdfc99034544bbebbe90823b91a8f7d
+run_name: learned-ray-318
+run_uuid: 8fdfc99034544bbebbe90823b91a8f7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723097576560
+status: 4
+tags: []
+user_id: suhaimi

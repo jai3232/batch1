@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/suhaimi/Desktop/batch1/notebooks/mlruns/633605664632243488/970cb393dea942c3b50fda12e2fd5370/artifacts
+end_time: 1723097131411
+entry_point_name: ''
+experiment_id: '633605664632243488'
+lifecycle_stage: active
+run_id: 970cb393dea942c3b50fda12e2fd5370
+run_name: blushing-hawk-151
+run_uuid: 970cb393dea942c3b50fda12e2fd5370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723097119152
+status: 4
+tags: []
+user_id: suhaimi
